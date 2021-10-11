@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and technology
 - 🌱 I’m currently learning kotlin program
 - 💞️ I’m looking to collaborate on ...
-- 📫 manalmohammed55@gmail.com
+- 📫 manalmohd55@gmail.com
 
 <!---
 manalmohammed3/manalmohammed3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
