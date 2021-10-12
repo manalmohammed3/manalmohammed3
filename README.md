@@ -1,7 +1,6 @@
 - 👋 Hi, I’m manalmohammed3
 - 👀 I’m interested in programming and technology
 - 🌱 I’m currently learning kotlin program
-- 💞️ I’m looking to collaborate on ...
 - 📫 manalmohd55@gmail.com
 
 <!---
