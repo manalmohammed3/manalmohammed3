@@ -1,4 +1,4 @@
-- 👋 Hi, I’m manalmohammed3
+- 👋 Hi, I’m manal mohammed
 - 👀 I’m interested in programming and technology
 - 🌱 I’m currently learning kotlin program
 - 📫 manalmohd55@gmail.com
