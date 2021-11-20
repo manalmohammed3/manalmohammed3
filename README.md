@@ -1,7 +1,11 @@
 -manal mohammed
+
 -interested in programming and technology
+
 -currently learning kotlin program
+
 -manalmohd55@gmail.com
+
 
 <!---
 manalmohammed3/manalmohammed3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
