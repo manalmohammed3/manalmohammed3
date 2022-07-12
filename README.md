@@ -1,9 +1,5 @@
 -manal mohammed
 
--interested in programming and technology
-
--currently learning kotlin program
-
 -manalmohd55@gmail.com
 
 
